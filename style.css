@@ -1,0 +1,52 @@
+.headline {
+  text-align: center;
+  float: none;
+  color:#a991ff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+
+.text {
+  position: relative;
+  float: left;
+  color:rgb(18, 3, 153);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 150%;
+  top: 100px;
+  left: 100px;
+  margin: 50px;
+}
+
+.textquote {
+  position: relative;
+  float: left;
+  color:rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 200%;
+  top: 100px;
+  left: 100px;
+}
+
+.image {
+  position: relative;
+  float: none;
+  color:white;
+  font-family: Arial, Helvetica, sans-serif;
+  top: 100px;
+  left: 50px;
+  width: 25%;
+  border: 10px solid #a991ff;
+  padding: 5px;
+}
+
+.button {
+  position: fixed;
+  float: left;
+  color:black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  left: 50px;
+  width: 25%;
+  border: 2px solid black;
+  padding: 5px; 
+  background-color: darkturquoise
+}
